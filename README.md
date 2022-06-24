@@ -1,2 +1,2 @@
 # azure-native-meetup
-Azure Native Meetup
+Collection of Azure Native Meetup Contribution
